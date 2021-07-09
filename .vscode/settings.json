@@ -1,0 +1,9 @@
+{
+  "deno.enable": true,
+  "deno.suggest.imports.hosts": {
+    "https://deno.land": true
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "denoland.vscode-deno"
+  }
+}
