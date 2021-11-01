@@ -1,6 +1,8 @@
 # Rollup on Deno
 
-Working in progress.
+~~Working in progress.~~
+
+This project is deprecated. You should be able to run Rollup on Deno by pass `--compat` flag to Deno.
 
 ## License
 
